@@ -2,5 +2,5 @@ In this project, PCA, LDA and LPP are successfully implemented in Java for face 
 
 This project is based on two databases of faces: ORL and Yale
 
-[6] ORL Database of Faces, [http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html](http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html)
-[6] Yale Database of Faces, [http://vision.ucsd.edu/content/yale-face-database](http://vision.ucsd.edu/content/yale-face-database)
+ORL Database of Faces, [http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html](http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html)
+Yale Database of Faces, [http://vision.ucsd.edu/content/yale-face-database](http://vision.ucsd.edu/content/yale-face-database)
